@@ -21,10 +21,10 @@
   "homepage": "https://github.com/antonio-evaldo/alura-docs#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongodb": "4.11",
+    "mongodb": "^4.17.2",
     "socket.io": "^4.5.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.14"
   }
 }
